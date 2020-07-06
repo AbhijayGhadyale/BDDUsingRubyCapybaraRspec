@@ -12,4 +12,4 @@ gem 'cucumber-core'
 gem 'cucumber-tag_expressions'
 gem 'report_builder'
 gem 'capybara-screenshot'
-
+#gem ‘solargraph’
